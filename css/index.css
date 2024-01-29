@@ -1,0 +1,23 @@
+@import './common.css';
+.container {
+  padding: 0 8px;
+}
+.container .title {
+  margin-bottom: 20px;
+}
+.container .content {
+  margin-bottom: 30px;
+}
+.code {
+  display: flex;
+  flex-direction: column;
+  padding: 8vw;
+  padding-top: 0;
+}
+.space {
+  height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #c7f9e8;
+  margin-bottom: 20px;
+}
